@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DijkstarVisualizer/static/css/main.c3318c15.chunk.css",
+    "main.js": "/DijkstarVisualizer/static/js/main.d7a705bc.chunk.js",
+    "main.js.map": "/DijkstarVisualizer/static/js/main.d7a705bc.chunk.js.map",
+    "runtime-main.js": "/DijkstarVisualizer/static/js/runtime-main.92b3e978.js",
+    "runtime-main.js.map": "/DijkstarVisualizer/static/js/runtime-main.92b3e978.js.map",
+    "static/js/2.e0a4e90d.chunk.js": "/DijkstarVisualizer/static/js/2.e0a4e90d.chunk.js",
+    "static/js/2.e0a4e90d.chunk.js.map": "/DijkstarVisualizer/static/js/2.e0a4e90d.chunk.js.map",
+    "index.html": "/DijkstarVisualizer/index.html",
+    "precache-manifest.9f599ac35fb2b84ff894591d187701f4.js": "/DijkstarVisualizer/precache-manifest.9f599ac35fb2b84ff894591d187701f4.js",
+    "service-worker.js": "/DijkstarVisualizer/service-worker.js",
+    "static/css/main.c3318c15.chunk.css.map": "/DijkstarVisualizer/static/css/main.c3318c15.chunk.css.map",
+    "static/js/2.e0a4e90d.chunk.js.LICENSE.txt": "/DijkstarVisualizer/static/js/2.e0a4e90d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92b3e978.js",
+    "static/js/2.e0a4e90d.chunk.js",
+    "static/css/main.c3318c15.chunk.css",
+    "static/js/main.d7a705bc.chunk.js"
+  ]
+}
